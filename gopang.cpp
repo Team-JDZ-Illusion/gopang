@@ -24,7 +24,7 @@ void title(void) {
          "format is like \"5 6\",\"1 "
          "2\"(enter q to quit)\n");
   printf(
-      "Made with ❤️  by these programers:(\?)LZJ,(PANG GOD)WQY,(C_GH0S7)CJY\n");
+      "Made with ❤️  by these programers:(\?)LZJ,(niuzai1000)WQY,(C_GH0S7)CJY\n");
 }
 /*initialize*/ void initialize(char chessboard[][13]) {
   for (int i = 0; i < 13; i++) {
